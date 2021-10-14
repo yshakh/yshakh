@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @yshakh
+- 👀 I’m interested in css, user experience, photography and spaceships...
+- 🌱 I’m currently learning React and css preprocessors...
+- 💞️ I’m looking to collaborate on accessibility and creating scalable user interface...
+
+<!---
+yshakh/yshakh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
